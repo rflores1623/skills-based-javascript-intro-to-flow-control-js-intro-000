@@ -17,5 +17,6 @@ function teenager(age) {
 	} else {
 		return "You are not a teenager";
 	}
+} 
 
-	teenager();
+teenager();

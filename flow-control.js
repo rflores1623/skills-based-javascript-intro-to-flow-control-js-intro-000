@@ -32,4 +32,4 @@ function ageChecker(age) {
 	}
 }
 
-return ageChecker(age);
+return ageChecker();
